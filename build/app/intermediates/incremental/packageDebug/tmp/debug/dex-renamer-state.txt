@@ -1,0 +1,4 @@
+#Tue Apr 20 16:45:33 IST 2021
+base.0=D\:\\AndroidProjects\\PracticeDemo\\bluestack_flutter\\bluesstack_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
